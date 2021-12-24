@@ -327,13 +327,4 @@ int main(){
 	//system("pause");
 	return 0;
 }
-/*
-dot -Tpng graf.txt -o graf1.png
-neato -Tpng graf.txt -o graf1.png
-twopi -Tpng graf.txt -o graf1.png
-circo -Tpng graf.txt -o graf1.png
-fdp -Tpng graf.txt -o graf1.png
-sfdp -Tpng graf.txt -o graf1.png
-patchwork -Tpng graf.txt -o graf1.png
-osage -Tpng graf.txt -o graf1.png
-*/
+
